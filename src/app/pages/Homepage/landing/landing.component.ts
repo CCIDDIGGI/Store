@@ -1,7 +1,7 @@
 import { Component, OnDestroy, OnInit } from '@angular/core';
 import { select, Store } from '@ngrx/store';
 import { Observable } from 'rxjs';
-import { increment, decrement, reset } from '../Store/Actions/homepage.actions'
+import { increment, decrement, reset } from '../store/actions/homepage.actions'
 import { post } from '../interfaces/homepage.interface';
 import { HomepageService } from '../services/homepage.service';
 

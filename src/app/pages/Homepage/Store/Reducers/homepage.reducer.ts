@@ -1,5 +1,5 @@
 import { createReducer, on } from '@ngrx/store';
-import { increment, decrement, reset } from '../Actions/homepage.actions'
+import { increment, decrement, reset } from '../actions/homepage.actions'
 
 export const initialState = 0;
 
