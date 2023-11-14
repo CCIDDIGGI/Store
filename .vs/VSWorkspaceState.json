@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\pages",
+    "\\src\\app\\pages\\Homepage",
+    "\\src\\app\\pages\\Homepage\\landing",
+    "\\src\\app\\pages\\Homepage\\Store",
+    "\\src\\app\\pages\\Homepage\\Store\\Actions",
+    "\\src\\app\\pages\\Homepage\\Store\\Reducers"
+  ],
+  "SelectedNode": "\\src\\app\\pages\\Homepage\\Store\\Reducers\\homepage.reducer.ts",
+  "PreviewInSolutionExplorer": false
+}
